@@ -18,6 +18,9 @@
  * @package WordPress
  */
 
+define('WP_HOME','d124rvi8v5vcgt.cloudfront.net');
+define('WP_SITEURL','d124rvi8v5vcgt.cloudfront.net');
+
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', 'MaliciousGaming');
