@@ -18,14 +18,9 @@
  * @package WordPress
  */
 
-define('WP_HOME','d124rvi8v5vcgt.cloudfront.net');
-define('WP_SITEURL','d124rvi8v5vcgt.cloudfront.net');
-
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', 'MeaganAPhoto');
-
-define('WP_REDIS_HOST', 'photo-wordpress.1sysmb.0001.use2.cache.amazonaws.com');
 
 /** MySQL database username */
 define('DB_USER', 'MeaganAPhoto');
