@@ -23,18 +23,18 @@ define('WP_SITEURL','d124rvi8v5vcgt.cloudfront.net');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'MaliciousGaming');
+define('DB_NAME', 'MeaganAPhoto');
 
 define('WP_REDIS_HOST', 'photo-wordpress.1sysmb.0001.use2.cache.amazonaws.com');
 
 /** MySQL database username */
-define('DB_USER', 'MaliciousGaming');
+define('DB_USER', 'MeaganAPhoto');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'MaliciousGaming');
+define('DB_PASSWORD', 'MeaganAPhoto');
 
 /** MySQL hostname */
-define('DB_HOST', 'maliciousgaming.csuxspxhhoee.us-east-2.rds.amazonaws.com:3306');
+define('DB_HOST', 'meaganaphoto.csuxspxhhoee.us-east-2.rds.amazonaws.com:3306');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
